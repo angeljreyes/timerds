@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Build system generated files
+.ninja_deps
+.ninja_log
+build.ninja
+*.nds
+compile_commands.json
+build/
+
+# Other
+.cache/
